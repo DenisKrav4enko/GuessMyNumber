@@ -110,6 +110,7 @@ const styles = StyleSheet.create({
         marginTop: 50,
         flex: 1,
         padding: 24,
+        alignItems: "center",
     },
     instructionText: {
         marginBottom: 12,
@@ -123,5 +124,6 @@ const styles = StyleSheet.create({
     listContainer: {
         flex: 1,
         padding: 16,
+        overflow: "hidden"
     },
 })
