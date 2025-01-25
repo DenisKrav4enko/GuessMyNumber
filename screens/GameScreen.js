@@ -87,6 +87,7 @@ export default GameScreen;
 
 const styles = StyleSheet.create({
     screen: {
+        marginTop: 100,
         flex: 1,
         padding: 24,
     },
